@@ -10,5 +10,11 @@ Introduction to cpu:
 Introduction to stacks:
 - http://www.emulator101.com/stacks.html
 
-Chip 8 Instruction Scheduling and Frequency:
+In the weeds level guide with code:
+- http://www.emulator101.com/introduction-to-chip-8.html
+
+CHIP-8 Documentation:
+- https://web.archive.org/web/20160213213233/http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
+
+CHIP-8 Instruction Scheduling and Frequency:
 - https://jackson-s.me/2019/07/13/Chip-8-Instruction-Scheduling-and-Frequency.html
